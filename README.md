@@ -34,8 +34,8 @@ A simple yet powerful resume analysis tool that leverages cutting-edge NLP techn
    pip install -r requirements.txt
 
 4. LLM Setup
-   Download and install OLLAMA https://ollama.com/
-   Depending on your system's RAM, select and download the suitable model https://github.com/ollama/ollama
+   * Download and install OLLAMA https://ollama.com/
+   * Depending on your system's RAM, select and download the suitable model https://github.com/ollama/ollama
 
 ## 📝 Usage
 1. Run the Streamlit application:
